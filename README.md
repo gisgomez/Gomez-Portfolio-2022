@@ -10,4 +10,4 @@ Upon graduation, I hope to work either in a spatial analytics consulting firm or
 I hope to develop a better eye for graphic design and visual composition. Given my background in architecture, I can recognize the importance of having a well-trained eye and am hoping to apply the level of rigor and refinement that architecture demands within the realm of data analysis and visualization. 
 
 # Portfolio
-This GitHub repository contains selected works completed throughout Professor Goranson's spring 2022 course: Telling Stories with Data.
+This GitHub repository contains selected works completed throughout Professor Goranson's Telling Stories with Data course.
