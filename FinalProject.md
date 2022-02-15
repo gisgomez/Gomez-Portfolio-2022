@@ -8,7 +8,7 @@ II. Elements: Given the geographic component of this project, Esri Story Maps wi
 
 III. Sketches
 
-![alt text](https://github.com/gisgomez/Gomez-Portfolio-2022/blob/main/finalprojectsketch.jpg)
+![alt text](https://github.com/gisgomez/Gomez-Portfolio-2022/blob/main/finalprojectsketch.JPG)
 
 IV. Data: Data for the project will come from a variety of sources, some of which are described below. This list of data sources is not exhaustive as there are more sources to be identified. 
     A. Zillow: data on areas where there has been greater activity in the real estate market due to increased interest in vacation or secondary homes
