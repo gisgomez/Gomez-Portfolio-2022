@@ -1,6 +1,6 @@
-# Final Project: Part I
+# Final Project, Part I: The New Urban Geography of Work
 
-# The New Urban Geography of Work: Project Outline
+Project Outline
 
 I. Summary: The shift to remote work as a result of the COVID-19 pandemic is fundamentally changing the country’s urban landscape. As both employers and employees embrace remote work as a long-term method of operation, migration and settlement patterns across the country are changing to reflect adjustments in people’s lifestyle and cost of living. This project aims to examine how urban areas are evolving as a result of the pandemic and remote work through data analysis and data visualization. 
 
