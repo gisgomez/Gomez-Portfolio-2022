@@ -14,5 +14,6 @@ IV. Data: Data for the project will come from a variety of sources, some of whic
     A. Zillow: data on areas where there has been greater activity in the real estate market due to increased interest in vacation or secondary homes
     B. American Community Survey (ACS): the 2020 ACS data can provide insight into trends on population changes in urban areas
     C. Apartment List: data on apartment vacancy rates in urban areas 
+
 V. Method and Medium: Through a series of maps made in Esri Story Maps we will explore remote worker’s origin and destination cities to better understand where people are moving to. Tableau will also be used to create supporting visualizations will be done through charts or graphs that provide more context into urban areas by focusing on demographic and cost of living measures, for instance.
 
