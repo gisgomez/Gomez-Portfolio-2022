@@ -1,6 +1,6 @@
 # Final Project, Part Two #
 
-Part Two of the final project involved pivoting from the data narrative proposed in [Part One](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject) further developing a wireframe for the new data narrative, and establishing a user research protocol which includes conducting user research interviews. The process behind Part Two is outlined below, but first some context about the data narrative pivot from Part One.
+Part Two of the final project involved pivoting from the data narrative proposed in [Part One](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject) further developing a wireframe and storyboard for the new data narrative, and establishing a user research protocol which includes conducting user research interviews. The process behind Part Two is outlined below, but first some context about the data narrative pivot from Part One.
 
 In Part One, the data narrative focused around changes in urban geography due to the mass adoption of remote work during the COVID-19 pandemic. Although the narrative was compelling, there were several issues with finding data to support further research on the topic especially given the recency of these changes. Data that examines the post-COVID urban environment is hard to find partly because it is a process that is unfolding in real-time and so the project scope and direction had to be reconsidered. 
 
