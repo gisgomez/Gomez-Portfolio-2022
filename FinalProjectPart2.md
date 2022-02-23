@@ -1,5 +1,5 @@
 # Final Project, Part Two #
-Part Two of the final project invovled making edits to the data narrative proposed in part one, further developing a wireframe for the data narrative, and establishing a user research protocol which includes conducting user research interviews. The process is outlined below. 
+Part Two of the final project invovled making edits to the data narrative proposed in [Part One](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject), further developing a wireframe for the data narrative, and establishing a user research protocol which includes conducting user research interviews. The process is outlined below. 
 
 # Data Story Wireframe #
 
