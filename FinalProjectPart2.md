@@ -7,11 +7,11 @@ The intended target audience for this data story is quite broad as it includes a
 
 ## Interview Selection Approach ##
 Given the intended target audience, the approach to identifying individuals to interview will take into consideration the criteria outlined below:
-*Is 18 years old or older and is presently enrolled in a health insurance plan 
-*Is currently seeing or has recently (since mid-2020) seen a healthcare provider either in-person or via telehealth
-*Is willing to disclose whether they have or have not received healthcare services via telehealth platforms
-  *If an individual has ever received healthcare services via telehealth platforms, whether or not this experience occurred during the pandemic 
-  *If an individual has not previously accessed healthcare services via telehealth platforms, whether or not they would be open and willing to pursue that option as an avenue for care in the future 
+* Is 18 years old or older and is presently enrolled in a health insurance plan 
+* Is currently seeing or has recently (since mid-2020) seen a healthcare provider either in-person or via telehealth
+* Is willing to disclose whether they have or have not received healthcare services via telehealth platforms
+  * If an individual has ever received healthcare services via telehealth platforms, whether or not this experience occurred during the pandemic 
+  * If an individual has not previously accessed healthcare services via telehealth platforms, whether or not they would be open and willing to pursue that option as an avenue for care in the future 
 
 There will be equal consideration for users who have and have not accessed healthcare services via telehealth platforms and users who did and did not use telehealth services during the pandemic in order to better understand both perspectives  
 
@@ -26,17 +26,17 @@ _Before we begin the interview, I would like to briefly provide a brief synopsis
 _You were identified as an interview candidate because of your age, access to health insurance, and willingness to openly discuss your experience with healthcare providers since the pandemic’s start in mid-2020. Given the topic of this interview, I would like to disclose upfront that you are not being asked to provide or reveal any sensitive or personal information, but rather you are being asked about your sentiment towards two mediums for accessing healthcare: telehealth or in-person. At any time please feel comfortable to pause or stop the interview if you feel you need to do so. I also want to extend you the opportunity to ask any questions before we start. Should you not have any questions at this time, we may circle back at the end of the interview session._ 
 
 _I would like to first begin with a couple of open discovery questions to get to know you a bit better.  
-*How often do you seek healthcare services? This could include but is not limited to general consultations, check ups, and mental health services.
-*How did the pandemic affect the way you interact with providers and access healthcare services? 
-*Since 2020, how many times have you met in-person or via telehealth platforms with a healthcare provider?_
+* How often do you seek healthcare services? This could include but is not limited to general consultations, check ups, and mental health services.
+* How did the pandemic affect the way you interact with providers and access healthcare services? 
+* Since 2020, how many times have you met in-person or via telehealth platforms with a healthcare provider?_
 
 _Thank you for your input. Next, I would like to ask some further questions to better understand the context of your access to healthcare services. 
 *Could you describe the last time you saw a healthcare provider, were you in-person or did you meet via a telehealth platform? (Note: Adjust the following questions based on the interviewee’s response)
-*What do you think about your experience with healthcare services being provided in-person//via telehealth applications? 
-*What is the most frustrating part about in-person/telehealth visits with healthcare providers?
-*What is the most helpful part about in-person/telehealth visits with healthcare providers? 
-*What do you feel is different between an in-person and a telehealth visit? Do you have a personal preference and why might that be?
-*Would you be willing to try telehealth over an in-person visit (or vice versa, depending on the interviewee’s response)?_
+* What do you think about your experience with healthcare services being provided in-person//via telehealth applications? 
+* What is the most frustrating part about in-person/telehealth visits with healthcare providers?
+* What is the most helpful part about in-person/telehealth visits with healthcare providers? 
+* What do you feel is different between an in-person and a telehealth visit? Do you have a personal preference and why might that be?
+* Would you be willing to try telehealth over an in-person visit (or vice versa, depending on the interviewee’s response)?_
 
 _Thanks for the feedback. I would like to wrap up with a walkthrough of a data story wireframe and you some questions about the data visualizations I have prepared for our interview today.  
 *What are your thoughts on the data visualizations shown in this wireframe? 
@@ -67,16 +67,16 @@ When shown the survey data on patients' access and use to telemedicine based on 
 ## Moving Forward ##
 
 I felt the interview script significantly helped in facilitating thoughtful and insightful conversation with the interviewees. The user research interviews were very helpful in contextualizing the storyline and highlighting the strengths and weaknesses of the data narrative. Below is an overview of the feedback received from interviewees. Moving forward this feedback will be taken into consideration and integrated into changes for part three of the final project. 
-Strengths
-One interviewee commented that the layout and order of the interview questions were useful in easing interviewees into the topic of conversation and helped them feel more comfortable in sharing their perspectives
-The data is effective at producing reactions that challenged interviewee’s expectations which gives way to more robust conversations 
-Most interviewees agreed that the wireframe structure, layout, and composition is easy to read and understand 
-The data and statistics included in the data story are effective metrics 
-The call to action is clear and is something that one interviewee would feel comfortable taking immediate action on 
-Weaknesses
-There is a slight disconnect between the interview questions and the data narrative; the interview questions seem to take into consideration things that the data does not challenge or support, and vice versa
-There is missing data points around other metrics; one interviewee commented that they would have liked to see data about what particular health industries saw an increase in telehealth usage 
-The wireframe could use more detailed data visualizations
-There should be an effort to establish a color scheme to use throughout the entire data story in order to achieve visual clarity and cohesiveness  
-The aspect of legislation around state and federal coverage of telemedicine needs to be more incorporated into the data story, either via data visualizations or some further discussion 
+* Strengths
+ * One interviewee commented that the layout and order of the interview questions were useful in easing interviewees into the topic of conversation and helped them feel more comfortable in sharing their perspectives
+  * The data is effective at producing reactions that challenged interviewee’s expectations which gives way to more robust conversations 
+ * Most interviewees agreed that the wireframe structure, layout, and composition is easy to read and understand 
+ * The data and statistics included in the data story are effective metrics 
+ * The call to action is clear and is something that one interviewee would feel comfortable taking immediate action on 
+* Weaknesses
+ * There is a slight disconnect between the interview questions and the data narrative; the interview questions seem to take into consideration things that the data does not challenge or support, and vice versa
+ * There is missing data points around other metrics; one interviewee commented that they would have liked to see data about what particular health industries saw an increase in telehealth usage 
+ * The wireframe could use more detailed data visualizations
+ * There should be an effort to establish a color scheme to use throughout the entire data story in order to achieve visual clarity and cohesiveness  
+ * The aspect of legislation around state and federal coverage of telemedicine needs to be more incorporated into the data story, either via data visualizations or some further discussion 
 
