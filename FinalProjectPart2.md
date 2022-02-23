@@ -67,14 +67,14 @@ When shown the survey data on patients' access and use to telemedicine based on 
 
 I felt the interview script significantly helped in facilitating thoughtful and insightful conversation with the interviewees. The user research interviews were very helpful in contextualizing the storyline and highlighting the strengths and weaknesses of the data narrative. Below is an overview of the feedback received from interviewees. Moving forward this feedback will be taken into consideration and integrated into changes for part three of the final project. 
 * Strengths
- * One interviewee commented that the layout and order of the interview questions were useful in easing interviewees into the topic of conversation and helped them feel more comfortable in sharing their perspectives
+  * One interviewee commented that the layout and order of the interview questions were useful in easing interviewees into the topic of conversation and helped them feel more comfortable in sharing their perspectives
   * The data is effective at producing reactions that challenged interviewee’s expectations which gives way to more robust conversations 
- * Most interviewees agreed that the wireframe structure, layout, and composition is easy to read and understand 
- * The data and statistics included in the data story are effective metrics 
- * The call to action is clear and is something that one interviewee would feel comfortable taking immediate action on 
+  * Most interviewees agreed that the wireframe structure, layout, and composition is easy to read and understand 
+  * The data and statistics included in the data story are effective metrics 
+  * The call to action is clear and is something that one interviewee would feel comfortable taking immediate action on 
 * Weaknesses
- * There is a slight disconnect between the interview questions and the data narrative; the interview questions seem to take into consideration things that the data does not challenge or support, and vice versa
- * There is missing data points around other metrics; one interviewee commented that they would have liked to see data about what particular health industries saw an increase in telehealth usage 
- * The wireframe could use more detailed data visualizations
- * There should be an effort to establish a color scheme to use throughout the entire data story in order to achieve visual clarity and cohesiveness  
- * The aspect of legislation around state and federal coverage of telemedicine needs to be more incorporated into the data story, either via data visualizations or some further discussion 
+  * There is a slight disconnect between the interview questions and the data narrative; the interview questions seem to take into consideration things that the data does not challenge or support, and vice versa
+  * There is missing data points around other metrics; one interviewee commented that they would have liked to see data about what particular health industries saw an increase in telehealth usage 
+  * The wireframe could use more detailed data visualizations
+  * There should be an effort to establish a color scheme to use throughout the entire data story in order to achieve visual clarity and cohesiveness  
+  * The aspect of legislation around state and federal coverage of telemedicine needs to be more incorporated into the data story, either via data visualizations or some further discussion 
