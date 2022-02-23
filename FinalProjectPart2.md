@@ -84,6 +84,6 @@ I felt the interview script significantly helped in facilitating thoughtful and 
   * There should be an effort to establish a color scheme to use throughout the entire data story in order to achieve visual clarity and cohesiveness  
   * The aspect of legislation around state and federal coverage of telemedicine needs to be more incorporated into the data story, either via data visualizations or some further discussion 
 
-##### [Back to Final Project, Part One](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject) #####
+#### [Back to Final Project, Part One](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject) ####
 
-##### [Back to Main Portfolio](https://gisgomez.github.io/Gomez-Portfolio-2022) #####
+#### [Back to Main Portfolio](https://gisgomez.github.io/Gomez-Portfolio-2022) ####
