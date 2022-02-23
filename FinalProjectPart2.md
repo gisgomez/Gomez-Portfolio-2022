@@ -1,6 +1,4 @@
-# Final Project, Part Two #
-
-# User Research Protocol #
+# Final Project, Part Two: Data Story Wireframe and User Research Protocol
 
 ## Target Audience ##
 The intended target audience for this data story is quite broad as it includes anyone who might seek services from a healthcare provider, regardless of whether or not they have previously accessed healthcare services via a telehealth platform. Perhaps the data narrative will resonate more positively or negatively with those who sought healthcare services throughout the pandemic and were directed to telehealth platforms instead of traditional methods of service. These individuals might have either developed an affinity for telehealth and its associated benefits of increased flexibility and patient access, or might have developed some resistance to telehealth due to personal preferences and the deviation from traditional delivery methods. 
@@ -25,30 +23,30 @@ _Before we begin the interview, I would like to briefly provide a brief synopsis
 
 _You were identified as an interview candidate because of your age, access to health insurance, and willingness to openly discuss your experience with healthcare providers since the pandemic’s start in mid-2020. Given the topic of this interview, I would like to disclose upfront that you are not being asked to provide or reveal any sensitive or personal information, but rather you are being asked about your sentiment towards two mediums for accessing healthcare: telehealth or in-person. At any time please feel comfortable to pause or stop the interview if you feel you need to do so. I also want to extend you the opportunity to ask any questions before we start. Should you not have any questions at this time, we may circle back at the end of the interview session._ 
 
-_I would like to first begin with a couple of open discovery questions to get to know you a bit better.  
-* How often do you seek healthcare services? This could include but is not limited to general consultations, check ups, and mental health services.
-* How did the pandemic affect the way you interact with providers and access healthcare services? 
-* Since 2020, how many times have you met in-person or via telehealth platforms with a healthcare provider?_
+_I would like to first begin with a couple of open discovery questions to get to know you a bit better._  
+* _How often do you seek healthcare services? This could include but is not limited to general consultations, check ups, and mental health services._
+* _How did the pandemic affect the way you interact with providers and access healthcare services?_
+* _Since 2020, how many times have you met in-person or via telehealth platforms with a healthcare provider?_
 
 _Thank you for your input. Next, I would like to ask some further questions to better understand the context of your access to healthcare services. 
-*Could you describe the last time you saw a healthcare provider, were you in-person or did you meet via a telehealth platform? (Note: Adjust the following questions based on the interviewee’s response)
-* What do you think about your experience with healthcare services being provided in-person//via telehealth applications? 
-* What is the most frustrating part about in-person/telehealth visits with healthcare providers?
-* What is the most helpful part about in-person/telehealth visits with healthcare providers? 
-* What do you feel is different between an in-person and a telehealth visit? Do you have a personal preference and why might that be?
-* Would you be willing to try telehealth over an in-person visit (or vice versa, depending on the interviewee’s response)?_
+*Could you describe the last time you saw a healthcare provider, were you in-person or did you meet via a telehealth platform? (Note: Adjust the following questions based on the interviewee’s response)_
+* _What do you think about your experience with healthcare services being provided in-person//via telehealth applications?_ 
+* _What is the most frustrating part about in-person/telehealth visits with healthcare providers?_
+* _What is the most helpful part about in-person/telehealth visits with healthcare providers?_
+* _What do you feel is different between an in-person and a telehealth visit? Do you have a personal preference and why might that be?_
+* _Would you be willing to try telehealth over an in-person visit (or vice versa, depending on the interviewee’s response)?_
 
-_Thanks for the feedback. I would like to wrap up with a walkthrough of a data story wireframe and you some questions about the data visualizations I have prepared for our interview today.  
-*What are your thoughts on the data visualizations shown in this wireframe? 
-*What about the data inspires curiosity or intrigue for you, and what about the data does not surprise you? 
-*What are your thoughts on states across the country changing laws or policies during the pandemic to require more robust insurance coverage of telemedicine? 
-*Do you feel that adjustment should be revisited as we move through the pandemic? 
-*How does this issue impact you specifically and what would you like to see done differently?
-*What data, metrics, or statistics do you feel are missing and would provide valuable insight?_
+_Thanks for the feedback. I would like to wrap up with a walkthrough of a data story wireframe and you some questions about the data visualizations I have prepared for our interview today._  
+* _What are your thoughts on the data visualizations shown in this wireframe?_
+* _What about the data inspires curiosity or intrigue for you, and what about the data does not surprise you?_ 
+* _What are your thoughts on states across the country changing laws or policies during the pandemic to require more robust insurance coverage of telemedicine?_ 
+* _Do you feel that adjustment should be revisited as we move through the pandemic?_ 
+* _How does this issue impact you specifically and what would you like to see done differently?_
+* _What data, metrics, or statistics do you feel are missing and would provide valuable insight?_
 
 _Thank you for sharing and thank you for your participation and openness throughout this interview. I am grateful for your willingness to share your experience and thoughts around telemedicine and welcome you to ask any questions or share any last thoughts at this time._
 
-_Thanks again for your time and participation. _
+_Thanks again for your time and participation._
 
 ## Interview Findings ##
 
