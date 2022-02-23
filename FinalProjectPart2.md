@@ -1,6 +1,11 @@
 # Final Project, Part Two #
-# Data Story Wireframe and User Research Protocol #
+Part Two of the final project invovled making edits to the data narrative proposed in part one, further developing a wireframe for the data narrative, and establishing a user research protocol which includes conducting user research interviews. The process is outlined below. 
 
+# Data Story Wireframe #
+
+
+
+# User Research Protocol #
 ## Target Audience ##
 The intended target audience for this data story is quite broad as it includes anyone who might seek services from a healthcare provider, regardless of whether or not they have previously accessed healthcare services via a telehealth platform. Perhaps the data narrative will resonate more positively or negatively with those who sought healthcare services throughout the pandemic and were directed to telehealth platforms instead of traditional methods of service. These individuals might have either developed an affinity for telehealth and its associated benefits of increased flexibility and patient access, or might have developed some resistance to telehealth due to personal preferences and the deviation from traditional delivery methods. 
 
@@ -78,3 +83,7 @@ I felt the interview script significantly helped in facilitating thoughtful and 
   * The wireframe could use more detailed data visualizations
   * There should be an effort to establish a color scheme to use throughout the entire data story in order to achieve visual clarity and cohesiveness  
   * The aspect of legislation around state and federal coverage of telemedicine needs to be more incorporated into the data story, either via data visualizations or some further discussion 
+
+### [Back to Final Project, Part 1](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject) ###
+
+### [Back to Main Portfolio](https://gisgomez.github.io/Gomez-Portfolio-2022) ###
