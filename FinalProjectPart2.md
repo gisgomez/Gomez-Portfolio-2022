@@ -10,7 +10,8 @@ The process of further exploring this data narrative via wireframing and user re
 
 # Wireframe and Storyboard #
 
-<div class="infogram-embed" data-id="4270cf36-1333-4bfe-99dd-15f0142a564e" data-type="interactive" data-title="Pictoral Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/4270cf36-1333-4bfe-99dd-15f0142a564e" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+![alt text](https://github.com/gisgomez/Gomez-Portfolio-2022/blob/main/Perct_Respondents_ProvidersTelemed.JPG)
+
 
 # User Research Protocol #
 ## Target Audience ##
