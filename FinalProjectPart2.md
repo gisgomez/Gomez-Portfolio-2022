@@ -8,7 +8,7 @@ The data narrative in Part Two is inspired from the topic proposed in Part One b
 
 The process of further exploring this data narrative via wireframing and user research is detailed below. 
 
-# Data Story Wireframe #
+# Wireframe and Storyboard #
 
 
 
