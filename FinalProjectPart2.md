@@ -10,7 +10,7 @@ The process of further exploring this data narrative via wireframing and user re
 
 # Wireframe and Storyboard #
 
-A preliminary draft of the wireframe and storyboard used for this assignment and referenced during the user interviews is available [here](https://shorthand.com/organisations/JSrgFWI7zn/stories/74m4XYPDLf) and includes drafts of data visualizations and accompanying text descriptions. 
+A preliminary draft of the wireframe and storyboard used for this assignment and referenced during the user interviews is available [here](https://preview.shorthand.com/ZDY2LgPyr4gNxuYk) and includes drafts of data visualizations and accompanying text descriptions. 
 
 # User Research Protocol #
 ## Target Audience ##
