@@ -12,8 +12,7 @@ The process of further exploring this data narrative via wireframing and user re
 
 ![alt text](https://github.com/gisgomez/Gomez-Portfolio-2022/blob/main/Perct_Respondents_ProvidersTelemed.JPG)
 
-<div class="flourish-embed flourish-chart" data-src="visualisation/8795645"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+![alt text](https://github.com/gisgomez/Gomez-Portfolio-2022/blob/main/TelemedProviders_AgeGrp.png)
 
 # User Research Protocol #
 ## Target Audience ##
