@@ -24,6 +24,7 @@ Finally, one of the biggest changes since Part Two was creating the writeup for 
 After implementing the changes discussed above, the storyboard was ready to be built and published via Shorthand. The final document can be accessed [here](https://carnegiemellon.shorthandstories.com/telemedicine-covid-and-beyond/index.html). 
 
 
+
 #### [Back to Final Project, Part One](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProject) ####
 
 #### [Back to Final Project, Part Two](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProjectPart2) ####
