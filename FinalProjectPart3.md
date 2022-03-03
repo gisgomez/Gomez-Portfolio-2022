@@ -21,7 +21,7 @@ Interestingly enough, other aspects of the data narrative and storyboard produce
 Finally, one of the biggest changes since Part Two was creating the writeup for the storyboard. This process involved first making edits to the data visualizations, integrating them into the data narrative, and discussing the implications of the analysis on the central point which also involved some outside research to find additional supporting evidence. This process was first done for each data visualization, then each write up was incorporated into the larger narrative.
 
 # Finalizing the Storyboard in Shorthand #
-After implementing the changes discussed above, the storyboard was ready to be built and published via Shorthand. The final document can be accessed [here](https://carnegiemellon.shorthandstories.com/telemedicine-covid-and-beyond/index.html).A written version of the Shorthand storyboard is also available as a PDF [here](https://gisgomez.github.io/Gomez-Portfolio-2022/PartThree.FinalWriteUp.pdf). 
+After implementing the changes discussed above, the storyboard was ready to be built and published via Shorthand. The final document can be accessed [here](https://carnegiemellon.shorthandstories.com/telemedicine-covid-and-beyond/index.html). A written version of the Shorthand storyboard can also be accessed [here](https://gisgomez.github.io/Gomez-Portfolio-2022/PartThree.FinalWriteUp.pdf) as a PDF. 
 
 
 
