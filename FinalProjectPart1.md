@@ -17,3 +17,9 @@ IV. Data: Data for the project will come from a variety of sources, some of whic
 
 V. Method and Medium: Through a series of maps made in Esri Story Maps we will explore remote worker’s origin and destination cities to better understand where people are moving to. Tableau will also be used to create supporting visualizations will be done through charts or graphs that provide more context into urban areas by focusing on demographic and cost of living measures, for instance.
 
+
+#### [Forward to Final Project, Part Two](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProjectPart2) ####
+
+#### [Forward to Final Project, Part Three](https://gisgomez.github.io/Gomez-Portfolio-2022/FinalProjectPart3) ####
+
+#### [Back to Main Portfolio](https://gisgomez.github.io/Gomez-Portfolio-2022) ####
